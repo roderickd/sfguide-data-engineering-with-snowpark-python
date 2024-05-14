@@ -2,7 +2,7 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "SZB06920"
+account = "xkqyigr-szb06920"
 user = "roderickd30dtrial"
 password = "KD6jug@2"
 role = "HOL_ROLE"
